@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>mty1049714042.github.io/post/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Jun 2019 01:28:23 +0800</lastBuildDate>
+    
+	<atom:link href="mty1049714042.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Why i am lived</title>
+      <link>mty1049714042.github.io/post/mtyblog/</link>
+      <pubDate>Mon, 10 Jun 2019 01:28:23 +0800</pubDate>
+      
+      <guid>mty1049714042.github.io/post/mtyblog/</guid>
+      <description>Why i am lived   Three passions, simple but overwhelmingly strong, have governed my life: the longing for love, the search for knowledge, and unbearable pity for the suffering of mankind. These passions, like great winds, have blown me hither and thither, in a wayward course, over a deep ocean of anguish, reaching to the very verge of despair.
+ With equal passion I have sought knowledge. I have wished to understand the hearts of men.</description>
+    </item>
+    
+  </channel>
+</rss>
